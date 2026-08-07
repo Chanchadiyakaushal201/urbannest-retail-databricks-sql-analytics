@@ -28,7 +28,7 @@ The project uses a clean Gold-layer star schema to analyze one million retail sa
 Current Phase
 
 - ✅ Project Planning
-- ⏳ Databricks Setup
+- ✅ Databricks Setup
 - ⏳ Data Exploration
 - ⏳ SQL Analytics
 - ⏳ Dashboard Development
