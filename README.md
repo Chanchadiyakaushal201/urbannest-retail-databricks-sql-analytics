@@ -29,8 +29,8 @@ Current Phase
 
 - ✅ Project Planning
 - ✅ Databricks Setup
-- ⏳ Data Exploration
-- ⏳ SQL Analytics
-- ⏳ Dashboard Development
+- ✅ Data Exploration
+- ✅ SQL Analytics
+- ✅ Dashboard Development
 - ⏳ AI Genie
 - ⏳ Power BI
