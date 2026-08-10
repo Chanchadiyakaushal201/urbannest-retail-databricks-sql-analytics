@@ -1,6 +1,8 @@
 -- ============================================================
--- Dataset: Monthly Sales Trend
--- Purpose: Analyze monthly sales performance over time
+-- Dataset: KPI Summary
+-- Purpose: Calculate key retail performance metrics including
+--          total sales, profit, quantity sold, orders,
+--          customers, and products.
 -- Used In: UrbanNest Retail Performance Dashboard
 -- ============================================================
 
