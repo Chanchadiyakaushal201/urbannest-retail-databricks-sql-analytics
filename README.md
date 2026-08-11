@@ -32,5 +32,5 @@ Current Phase
 - ✅ Data Exploration
 - ✅ SQL Analytics
 - ✅ Dashboard Development
-- ⏳ AI Genie
+- ✅ AI Genie
 - ⏳ Power BI
