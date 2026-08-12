@@ -630,6 +630,9 @@ urbannest-retail-analytics/
 │       └── data_model.png
 │
 ├── sql/
+│   ├── analysis/
+│   ├── dashboards/
+│   └── exploration/
 │
 ├── README.md
 └── LICENSE
