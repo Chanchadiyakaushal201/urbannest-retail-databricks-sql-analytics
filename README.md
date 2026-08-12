@@ -602,7 +602,7 @@ This demonstrates how conversational analytics can complement traditional dashbo
 # 📂 Repository Structure
 
 ```text
-urbannest-retail-analytics/
+urbannest-retail-databricks-sql-analytics/
 │
 ├── data/
 │   └── gold/
