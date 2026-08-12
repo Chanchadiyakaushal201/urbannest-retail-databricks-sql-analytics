@@ -612,7 +612,7 @@ urbannest-retail-analytics/
 │   └── urbannest_retail_performance_dashboard.png
 │
 ├── docs/
-│   ├── genie_documentation.md
+│   ├── genie_business_questions.md
 │   └── genie_evaluation.md
 │
 ├── images/
